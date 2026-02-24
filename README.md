@@ -26,7 +26,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Delwar2004/Predicting-Air-Quality-with-FBProphet.git]
+   git clone:
+   [[https://github.com/Delwar2004/Predicting-Air-Quality-with-FBProphet.git]](https://github.com/Delwar2004/Predicting-Air-Quality-with-FBProphet)
 Install necessary libraries:
 
 Bash
@@ -40,5 +41,5 @@ Python (Pandas, NumPy, Matplotlib)
 FB Prophet (Forecasting Engine)
 
 <p align="center">
-  <i>Developed by <b>Delowar</b></i>
+  <i>Developed by <b>Delwar</b></i>
 </p>
